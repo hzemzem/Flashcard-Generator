@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "This app will allow users to create two types of flashcards: basic and cloze flashcards",
+  "main": "basicFlashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzemzem/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "constructors"
+  ],
+  "author": "Hajar Zemzem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hzemzem/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/hzemzem/Flashcard-Generator#readme"
+}
